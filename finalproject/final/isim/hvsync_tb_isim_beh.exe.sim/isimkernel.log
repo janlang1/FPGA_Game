@@ -1,0 +1,10 @@
+Command line:
+   hvsync_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60372
+
+Sat Nov 17 15:04:30 2018
+
+
+ Elaboration Time: 0.21875 sec

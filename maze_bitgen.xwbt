@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=U:\EE354_Labs\final_project\maze.ncd
+OUTFILE=U:\EE354_Labs\final_project\maze.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=U:\EE354_Labs\final_project
+LICENSE=ISE
+USER_INFO=174127445_174127446_210653472_101
